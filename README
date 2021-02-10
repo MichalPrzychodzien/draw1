@@ -1,0 +1,7 @@
+This is a simple program to guess the number drawn by a computer.
+Run the draw file. Specify the draw range, and the number of chances.
+The program will compare the number drawn by the computer with the number given by the user. If the user hits the number, or if the chances run out, the program will terminate, informing the user of the result.
+
+The program captures errors that can be called by the user.
+
+A test file allows you to check the most important functions of the program.
